@@ -1,0 +1,26 @@
+{
+  "name": "re",
+  "version": "1.0.0",
+  "description": "portfolio-3d",
+  "scripts": {
+    "start": "parcel main.html",
+    "build": "parcel build main.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOTY69/NOTY69-portfolio-3d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NOTY69/NOTY69-portfolio-3d/issues"
+  },
+  "homepage": "https://github.com/NOTY69/NOTY69-portfolio-3d#readme",
+  "htmlnano": {
+    "minifySvg": false
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
